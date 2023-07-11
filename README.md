@@ -16,7 +16,7 @@ Neste projeto, desenvolvemos um App para estacionamento controle entrada dos vei
 # 📁 Acesso ao projeto
 
 Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
-**Você pode acessar o projeto clicando <a href="https://jogodavelha-production-6fae.up.railway.app/">aqui</a>.</p>
+
 
 # 🛠️ Tecnologias utilizadas
 
